@@ -1,6 +1,6 @@
 Flask
 Gunicorn
-joblib==1.2.0
-pandas==1.4.0
+joblib
+pandas
 Flask-Cors
 scikit-learn
